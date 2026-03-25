@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://michaelyurachek.com/poem-website/sitemap.xml
