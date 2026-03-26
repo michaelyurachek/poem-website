@@ -42,7 +42,7 @@
 }
 
 .start-container p {
-    font-size: var(--text-md);
+    font-size: var(--text-lg);
     margin: 0 auto;
     padding: 0 20px;
     text-align: center;
@@ -244,6 +244,7 @@
 .writing-poem {
     text-align: center;
     font-family: var(--font-cafe);
+    font-size: var(--text-xl);
     margin: 0 auto;
     line-height: 2rem;
     padding: 10vh 0;

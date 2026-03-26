@@ -74,9 +74,6 @@ body {
   /* Huge / hero text */
   --text-8xl: clamp(5.5rem, 4rem + 4vw, 7.5rem);
   --text-9xl: clamp(6.5rem, 4.5rem + 5vw, 9rem);
-
-  /* Colors */
-  
 }
 
 

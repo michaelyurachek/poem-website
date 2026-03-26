@@ -1,8 +1,6 @@
 // Base imports
 import { useState } from "react";
 
-// Components
-
 // CSS
 import "./pageStyling/home.css"
 
@@ -38,7 +36,7 @@ export default function Home() {
                     <span className="inside">html</span>
                     <span className="edge">&gt;</span> opening the page<br/>
                     and 
-                    <span className="edge">&lt;</span>
+                    <span className="edge"> &lt;</span>
                     <span className="inside">body</span>
                     <span className="edge">&gt;</span> holding everything together,<br/>
                     text sitting quietly<br/>
@@ -172,7 +170,7 @@ export default function Home() {
                     <br/>
                     From headers and footers,<br/>
                     from curiosity written in HTML<br/>
-                    and imagination styled in CSS<br/>
+                    and imagination styled in CSS.<br/>
                     <br/>
                     I am from a webpage<br/>
                     still loading,<br/>
